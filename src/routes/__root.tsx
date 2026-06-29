@@ -84,6 +84,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Portfolio of Sumit Nagar, an aspiring Python developer building efficient, scalable software." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Sumit Nagar — Python Developer" },
+      { name: "twitter:description", content: "Portfolio of Sumit Nagar, an aspiring Python developer building efficient, scalable software." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7befc64-da9e-461b-af2f-7be4b710c7e0/id-preview-9b6ef02c--f0126fbe-e2c7-4eb6-abf0-251ab7e58aea.lovable.app-1782721380701.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7befc64-da9e-461b-af2f-7be4b710c7e0/id-preview-9b6ef02c--f0126fbe-e2c7-4eb6-abf0-251ab7e58aea.lovable.app-1782721380701.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
