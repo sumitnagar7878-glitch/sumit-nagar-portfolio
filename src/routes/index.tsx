@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import profileImg from "@/assets/profile.jpg";
+
 import {
   ArrowRight, Mail, Github, Linkedin, Download, Code2, Database,
   BarChart3, Wrench, Sparkles, GraduationCap, Briefcase, Send,
