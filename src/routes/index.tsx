@@ -178,7 +178,7 @@ function Portfolio() {
               <div className="absolute inset-0 rounded-full bg-gradient-primary blur-3xl opacity-30 scale-110" />
               <div className="absolute inset-0 rounded-full border border-primary/30 animate-pulse-ring" />
               <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-border shadow-glow bg-card">
-                <img src={profileImg} alt="Sumit Nagar" width={800} height={800} className="w-full h-full object-cover" />
+                <img src="https://i.postimg.cc/44PDZLDz/IMG-20260629-WA0009-jpg.jpg" alt="Sumit Nagar" width={800} height={800} className="w-full h-full object-cover" />
               </div>
               <div className="absolute -top-4 -left-4 glass rounded-2xl px-4 py-3 animate-float shadow-card">
                 <div className="flex items-center gap-2">
